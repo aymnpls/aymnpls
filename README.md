@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi stranger! 👋
 
 <!--
 **aymnpls/aymnpls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there, I'm Aiman. Nice to meet you.
+I'm Aiman. Nice to meet you.
